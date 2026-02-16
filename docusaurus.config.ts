@@ -124,7 +124,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Accent Language 株式会社. Built with Docusaurus.`,
+      copyright: `© ${new Date().getFullYear()} LokaLingo 株式会社 6011001118444 / ORBWEVA ABN 62159782318`,
     },
     prism: {
       theme: prismThemes.github,
