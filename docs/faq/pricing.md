@@ -18,7 +18,7 @@ Loka uses a seat-based pricing model. The **Loka Creator DIY** plan starts at **
 
 ### Is there a free trial?
 
-Loka offers a **14-Day Challenge** for $39 (one-time). This gives you a guided introduction to the platform so you can explore all the features before committing to a monthly plan. It is not a free trial, but it is a low-risk way to evaluate whether Loka is right for your school.
+Yes! Loka offers a **14-day free trial** with no credit card required. You get 1 educator seat and 1 learner test seat with full access to all platform features. After the trial ends, you can upgrade to a paid plan to continue. See [Create Your Free Trial Account](/getting-started/free-trial) for details.
 
 ---
 
@@ -53,7 +53,7 @@ Cancelling your Creator plan also cancels all educator and learner seats associa
 
 ### Can I get a refund?
 
-Loka does not offer prorated refunds for partial months. If you cancel mid-cycle, you retain access until the end of your billing period. For the 14-Day Challenge, refund requests are handled on a case-by-case basis -- contact support within the first 7 days.
+Loka does not offer prorated refunds for partial months. If you cancel mid-cycle, you retain access until the end of your billing period. If you are not satisfied within the first 30 days of a paid plan, [contact us](https://lokalingo.com/en/contact) and we will work with you to make it right.
 
 ---
 

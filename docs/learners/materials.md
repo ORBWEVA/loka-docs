@@ -18,8 +18,8 @@ Your teacher's notes from the lesson, covering key discussion points, explanatio
 ### Keywords & Vocabulary
 New words and phrases introduced during the lesson, with definitions and example sentences. These are tagged to your level so you can review them in context.
 
-### ARPs (Adaptive Review Phrases)
-AI-generated review phrases based on the lesson content. ARPs help you practice what you learned by presenting the material in different contexts and sentence patterns.
+### ARPs (Active Recall Pairs)
+AI-generated question-and-answer pairs based on the lesson content. ARPs help you practice what you learned by testing your recall of key vocabulary, grammar, and concepts from the session.
 
 ### CIPs (Correct & Incorrect Phrases)
 Corrections from the lesson, showing what you said alongside the improved version. Each CIP highlights the specific grammar, vocabulary, or pronunciation point so you understand *why* the correction was made.

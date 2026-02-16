@@ -18,9 +18,9 @@ Loka uses a seat-based subscription model. You choose a Creator plan for your sc
 
 All plans include full access to the Loka platform features: The Living Textbook, AI tools, booking system, progress tracking, and integrations.
 
-### 14-Day Challenge
+### Free Trial
 
-Not sure if Loka is right for you? The **14-Day Challenge** ($39 one-time) is a guided introduction to the platform. You get 14 days to explore Loka with structured guidance, after which you can upgrade to a monthly plan.
+Not sure if Loka is right for you? Start with a [14-day free trial](/getting-started/free-trial) -- no credit card required. You get full access to all DIY features with 1 educator seat and 1 learner test seat. After the trial, upgrade to a paid plan to continue.
 
 ## Educator Seats
 

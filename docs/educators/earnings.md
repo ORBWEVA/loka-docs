@@ -54,11 +54,7 @@ Filter your earnings data to analyze specific periods:
 
 ## Payout Configuration
 
-Loka supports multiple payout methods so you can receive your earnings in the way that works best for you.
-
-### Stripe Connect
-
-Loka uses **Stripe Connect** for direct payouts:
+Loka uses **Stripe Connect** for payouts:
 
 1. Go to **Settings > Payments**
 2. Click **Connect with Stripe**
@@ -67,33 +63,13 @@ Loka uses **Stripe Connect** for direct payouts:
 
 With Stripe Connect, payouts are processed automatically after each lesson payment. You can configure your payout schedule (daily, weekly, monthly) in your Stripe dashboard.
 
-### PayPal
-
-To receive payouts via PayPal:
-
-1. Go to **Settings > Payments**
-2. Enter your PayPal email address
-3. Payouts are sent to your PayPal account on the configured schedule
-
-### Wise (TransferWise)
-
-For international educators, **Wise** offers competitive exchange rates:
-
-1. Go to **Settings > Payments**
-2. Enter your Wise account details
-3. Payouts are sent in your preferred currency
-
-:::tip
-If you teach students across multiple countries, Wise typically offers the best exchange rates and lowest fees for international transfers.
-:::
-
 ## Loka Creator Subscription
 
 To use Loka's teaching tools (Living Canvas, session management, AI features), you need an active **Loka Creator** subscription:
 
 | Plan | Monthly Price | What's Included |
 |------|---------------|-----------------|
-| **14-Day Challenge** | $39 one-time | Entry-level introduction to the platform |
+| **Free Trial** | Free for 14 days | 1 Educator Seat + 1 Learner Test Seat (no credit card required) |
 | **Loka Creator DIY** | $6/month | 1 Educator Seat + 1 Learner Test Seat |
 | **Loka Creator DFY** | $29/month | Everything in DIY + Done-For-You configuration + 2hrs tech support |
 | **Loka Creator Aspire** | $199/month | Everything in DFY + 2hrs founder-led coaching |
@@ -116,7 +92,7 @@ This means your costs scale with your active student base. If a student takes a 
 
 Loka provides the data you need for tax reporting:
 
-- Export your earnings history as a CSV from the Management tab
+- View your earnings history from the Management tab
 - Filter by date range to match your tax period
 - All amounts are shown in your configured currency
 

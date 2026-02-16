@@ -54,14 +54,6 @@ Connect Zoom to automatically generate meeting links for online lessons.
 - Authorize your Zoom account
 - Once connected, booking an online lesson automatically creates a Zoom meeting and includes the join link in the confirmation email
 
-### Zoho
-
-Integrate with Zoho CRM to sync your learner and lead data.
-
-- Go to **Settings > Integrations > Zoho**
-- Authorize your Zoho account
-- Configure which data syncs between Loka and Zoho
-
 ### Asana
 
 Connect Asana to manage tasks and projects related to your school operations.
@@ -89,15 +81,13 @@ You can customize the content of these templates from **Settings > Emails**. Bra
 
 Configure the sender name and reply-to address for outgoing emails so they appear to come from your school rather than from Loka directly.
 
-## White-Labelling
+## School Branding
 
-Make Loka feel like your own platform with white-labelling options:
+Customize how Loka appears to your educators and learners:
 
 - **School name** -- displayed throughout the platform and in emails.
-- **Logo** -- upload your school's logo to replace the default Loka branding in the navigation bar and emails.
-- **Brand colors** -- customize the accent colors used in the learner and educator dashboards.
-- **Custom domain** -- contact the Loka team to set up a custom domain (e.g., `app.yourschool.com`) for your school's instance.
+- **Logo** -- upload your school's logo to appear in the navigation bar and emails.
 
 :::tip
-White-labelling helps build trust with your learners. When the platform looks and feels like your brand, it reinforces your school's identity and professionalism.
+Adding your school name and logo helps build trust with your learners and reinforces your school's identity.
 :::
