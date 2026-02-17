@@ -12,59 +12,55 @@ The educator dashboard is your command center in Loka. From here you can launch 
 
 Your dashboard is organized into three main tabs:
 
-### Canvas
+### Earnings (Management)
 
-The **Canvas** tab is where your lessons come to life. This is your gateway to the [Living Canvas](/educators/canvas) -- Loka's interactive whiteboard. From here you can:
+The **Earnings** tab provides an overview of the business side of your teaching:
 
-- Start a new session with a student
+- Total earnings and daily average for the selected period
+- Top 5 services chart (by booking count)
+- Top 5 students chart (by earnings)
+- Date range filtering (last 30, 60, or 90 days, or custom range)
+
+### The Living Textbook (Canvas)
+
+The **Living Textbook** tab is where your lessons come to life. This is your gateway to the [Living Canvas](/educators/canvas). From here you can:
+
+- View upcoming and past sessions with quick actions (Start Session / View Session)
+- Start a new session with a student (requires an active subscription)
 - Review past session canvases
 - Access saved notes, keywords, and Active Recall Pairs (ARPs)
 - Export canvases as PDF or MP3
 
-### Sessions
+### Search (Keywords)
 
-The **Sessions** tab shows your upcoming and past lessons:
-
-- **Upcoming sessions** -- see what's on your schedule, with quick links to join or prepare
-- **Past sessions** -- review completed lessons, student attendance, and session notes
-- **Session history** -- filter by date range, student, or service type
-
-### Management
-
-The **Management** tab gives you oversight of the business side:
-
-- Student roster and enrollment status
-- Earnings summaries and payment history
-- Service configuration (lesson types, pricing, duration)
-- School settings and branding
+The **Search** tab lets you search and review keywords and vocabulary across all sessions.
 
 ## Key Metrics
 
-At the top of your dashboard, you'll see at-a-glance metrics for the selected period:
+The Earnings tab displays metrics for the selected period:
 
 | Metric | Description |
 |--------|-------------|
-| **Earnings** | Total revenue from completed lessons |
-| **Lessons** | Number of sessions delivered |
+| **Total Earnings** | Gross revenue from completed lessons |
+| **Daily Average** | Average daily earnings for the period |
 | **Duration** | Total teaching hours logged |
-| **Students** | Active learners in your school |
-
-Use the date range picker to view metrics for any period -- this week, this month, or a custom range.
+| **Top Services** | Most popular lesson types by booking count |
+| **Top Students** | Highest-value students by earnings |
 
 ## Quick Access Features
 
-- **Start Session** -- launch a new lesson directly from the dashboard (requires an active [Loka Creator subscription](/educators/earnings))
-- **Calendar sync** -- your schedule integrates with Google Calendar and iCal
-- **Notifications** -- booking confirmations, cancellations, and payment alerts appear in your notification center
+- **Start Session** -- launch a new lesson from the Living Textbook tab (requires an active [Loka Creator subscription](/educators/earnings))
+- **iCal Feed** -- export your Loka schedule as an iCal feed for use with Google Calendar or other calendar apps
+- **Email Notifications** -- booking confirmations, cancellations, and payment alerts are sent via email
 
 ## Getting Started
 
 If you're new to the dashboard:
 
-1. Complete your [profile setup](https://thelivingtextbook.lokalingo.com/teachers/profile) in the Settings tab
-2. [Set your availability](/educators/schedule) so students can book lessons
-3. Add your [AI provider keys](/educators/ai-features) to unlock AI-powered teaching tools
-4. Invite your first student or share your booking link
+1. Complete your [profile setup](https://thelivingtextbook.lokalingo.com/teachers/profile) on your Profile page
+2. [Set your availability](/educators/schedule) from the Lesson Management page
+3. Add your [AI provider keys](/educators/ai-features) from your Profile > AI Integration section
+4. Share your booking link so students can register and book lessons
 
 :::tip
 Bookmark your dashboard URL for quick access. You can also add it to your phone's home screen for a native app-like experience.

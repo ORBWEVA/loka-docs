@@ -12,14 +12,13 @@ Loka makes it easy to find available time slots, choose a teacher, and book less
 
 1. **Select a service** -- From your dashboard, click **Book a Lesson** and choose the lesson type (e.g., General English, Business English, Exam Prep). The available services depend on what your school offers.
 
-2. **Choose a date and time** -- Browse the calendar to find open slots. Available times are shown in your local timezone. You can toggle between day, week, and month views.
+2. **Choose a date and time** -- Browse available time slots using the date picker. Available times are shown in your local timezone.
 
 3. **Select a teacher** -- Pick from the available teachers for your chosen time slot. Each teacher's profile shows their specialties, languages spoken, and a short bio.
 
-4. **Choose a location type** -- Select how you want to take the lesson:
-   - **Online** -- via Zoom or your school's preferred video platform
+4. **Choose a location** -- Select how you want to take the lesson:
+   - **Online** -- via Zoom, Google Meet, or your school's preferred video platform
    - **In-person** -- at a physical location set by your school
-   - **Hybrid** -- some schools offer both options for the same lesson
 
 5. **Confirm your booking** -- Review the lesson details and click **Confirm**. You will receive a confirmation email with all the details, including any join links for online lessons.
 
@@ -35,11 +34,11 @@ If a slot is unavailable, it may already be taken or fall outside your school's 
 
 ## Managing Your Bookings
 
-You can view all upcoming and past lessons from the **My Bookings** section of your dashboard. Each booking shows:
+You can view all upcoming and past lessons from your dashboard. Each booking shows:
 
 - Date, time, and duration
 - Teacher name
-- Location type (online/in-person)
+- Location
 - Lesson status (upcoming, completed, cancelled)
 
 ## Cancelling a Booking

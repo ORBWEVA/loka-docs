@@ -29,7 +29,7 @@ Each educator in your school needs their own seat.
 - **Cost:** $6/month per educator seat
 - **Billing:** Standard monthly Stripe subscription
 - **Included:** Your Creator plan comes with 1 educator seat
-- **Adding more:** Purchase additional seats from **Admin Panel > Billing > Add Educator Seat**
+- **Adding more:** Additional educator seats are purchased through Stripe checkout when adding new educators
 - **Cancellation:** Manual -- you cancel educator seats when they are no longer needed
 
 ## Learner Seats
@@ -43,47 +43,33 @@ Each active learner also needs a seat, but learner billing works differently.
 
 This model means you are never paying for inactive learners. Seats scale naturally with your active student base.
 
-## Stripe Billing Portal
+## Billing Page
 
-All payments are processed through Stripe. You can access the Stripe billing portal from **Admin Panel > Billing > Manage Billing**.
+All payments are processed through Stripe. Access billing information from the **Billing** link in your profile dropdown (top-right header menu).
 
-From the portal, you can:
-
-- View and download invoices
-- Update your payment method (credit card, etc.)
-- See your current subscriptions and their renewal dates
-- View payment history
+The billing page shows your current subscription status and seat information.
 
 ## Managing Subscriptions
 
-### Upgrading Your Plan
+### Changing Your Plan
 
-To move to a higher-tier Creator plan:
-
-1. Go to **Admin Panel > Billing**.
-2. Click **Change Plan**.
-3. Select the new plan.
-4. The change takes effect immediately. You will be charged the prorated difference for the remainder of the current billing period.
-
-### Downgrading Your Plan
-
-Downgrades take effect at the end of the current billing period. If you downgrade to a plan with fewer included features, make sure your setup is compatible before the switch.
+To upgrade or downgrade your Creator plan, contact the Loka team. Plan changes can be arranged to take effect at the start of your next billing cycle.
 
 ### Cancelling Your Plan
 
 To cancel your Loka Creator subscription:
 
-1. Go to **Admin Panel > Billing**.
+1. Go to **Billing** from your profile dropdown.
 2. Click **Cancel Subscription**.
-3. Your access continues until the end of the current billing period.
-4. After cancellation, your data is retained for 90 days in case you decide to come back.
+3. This sends a cancellation request to the Loka team, who will process it.
+4. Your access continues until the end of the current billing period.
 
 :::caution
-Cancelling your Creator plan will also cancel all educator and learner seats associated with your school. Make sure to export any data you need before the retention period ends.
+Cancelling your Creator plan will deactivate all educator and learner accounts in your school after the current billing period ends.
 :::
 
 ### Adding or Removing Seats
 
-- **Add seats:** **Admin Panel > Billing > Add Educator Seat** (or add learners, and their seats activate automatically on payment).
-- **Remove educator seats:** Go to the educator's profile and click **Remove Educator**. The seat cancels at the end of the billing period.
-- **Remove learner seats:** Learner seats cancel automatically when the learner stops paying for lessons. No manual action is needed.
+- **Add educator seats:** Add a new educator from **Users > Manage LP** -- the seat subscription is created during the process.
+- **Remove educator seats:** Cancel the educator's seat subscription from their profile in the admin panel.
+- **Learner seats:** Managed automatically -- they activate on lesson payment and stop when lessons stop.

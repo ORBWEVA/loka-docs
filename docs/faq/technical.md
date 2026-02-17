@@ -33,24 +33,24 @@ All lesson times, booking slots, and reminders use your configured timezone. Aft
 
 ### What video conferencing platforms does Loka support?
 
-Loka integrates with **Zoom** for online lessons. When Zoom is connected, booking an online lesson automatically generates a Zoom meeting link that is included in the confirmation email.
+Loka integrates with **Zoom** and **Google Meet** for online lessons. When connected, booking an online lesson automatically generates a meeting link that is included in the confirmation email.
 
-If your school uses a different video platform (Google Meet, Microsoft Teams, etc.), your educator can manually add the meeting link to the lesson details.
+If your school uses a different video platform (Microsoft Teams, etc.), your educator can manually add the meeting link to the lesson details.
 
 ---
 
 ### How do I set up my AI API key?
 
-Loka's AI features (ARP generation, lesson assessment, AI-assisted feedback) require an API key from either **Anthropic (Claude)** or **OpenAI (GPT)**.
+Loka's AI features (ARP generation, lesson assessment, AI-assisted feedback) require an API key from **Anthropic (Claude)**, **OpenAI (GPT)**, or **OpenRouter**.
 
 To set up your key:
 
 1. Go to **Profile > Settings > AI Integration**.
-2. Enter your API key for Anthropic, OpenAI, or both.
+2. Enter your API key for Anthropic, OpenAI, OpenRouter, or any combination.
 3. Select your **preferred provider** (the system will try your preferred provider first and fall back to the other if needed).
 4. Click **Save**.
 
-You can obtain API keys from [Anthropic](https://console.anthropic.com/) or [OpenAI](https://platform.openai.com/). AI costs are billed directly by the provider based on your usage -- Loka does not add any markup.
+You can obtain API keys from [Anthropic](https://console.anthropic.com/), [OpenAI](https://platform.openai.com/), or [OpenRouter](https://openrouter.ai/). AI costs are billed directly by the provider based on your usage -- Loka does not add any markup.
 
 ---
 
@@ -66,7 +66,7 @@ For the best experience on mobile, we recommend using Chrome or Safari.
 
 Lesson summaries can be downloaded individually as **PDF** files from the lesson detail page. Audio versions of lesson content can be generated and downloaded as **MP3** files.
 
-For bulk data exports (lesson history, student records, etc.), contact your Loka Creator or reach out to support.
+The admin panel includes Excel export functionality for certain data views. For additional bulk data exports, contact your Loka Creator or reach out to support.
 
 ---
 

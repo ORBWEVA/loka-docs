@@ -24,13 +24,13 @@ Starting a session requires an active Loka Creator subscription. If you see a me
 
 ## Canvas Features
 
-### Drawing and Typing
+### Text Editing
 
-Use the canvas toolbar to:
+The canvas is a text-based editor where you capture lesson content:
 
-- **Type text** -- click anywhere on the canvas and start typing
-- **Draw freehand** -- sketch diagrams, highlight connections, or annotate
-- **Add sections** -- organize your canvas into logical blocks
+- **Type text** -- write notes, corrections, and examples in the editor area
+- **Add topics** -- organize your canvas content by topic tags
+- **Add sections** -- structure your notes into logical blocks
 
 ### Keywords
 
@@ -41,7 +41,7 @@ Record important vocabulary and phrases as **keywords**. These are tagged and se
 ARPs are question-answer pairs that reinforce learning through active recall:
 
 - Add an ARP by entering a prompt (e.g., "How do you say 'thank you' in Japanese?") and the target answer
-- ARPs are stored in the student's profile for spaced repetition review
+- ARPs are stored and available for review in the student's lesson materials
 - [AI features](/educators/ai-features) can auto-generate ARPs from your lesson notes
 
 ### Correct and Incorrect Phrases (CIPs)

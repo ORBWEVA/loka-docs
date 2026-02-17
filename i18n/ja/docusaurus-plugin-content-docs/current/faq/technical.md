@@ -33,24 +33,24 @@ Lokaは以下の最新バージョンで最適に動作します：
 
 ### 対応しているビデオ会議プラットフォームは？
 
-Lokaはオンラインレッスン用に **Zoom** と連携しています。Zoomが接続されている場合、オンラインレッスンの予約時にZoomミーティングリンクが自動生成され、確認メールに含まれます。
+Lokaはオンラインレッスン用に **Zoom** および **Google Meet** と連携しています。接続されている場合、オンラインレッスンの予約時にミーティングリンクが自動生成され、確認メールに含まれます。
 
-スクールが別のビデオプラットフォーム（Google Meet、Microsoft Teamsなど）を使用している場合、エデュケーターがレッスン詳細にミーティングリンクを手動で追加できます。
+スクールが別のビデオプラットフォーム（Microsoft Teamsなど）を使用している場合、エデュケーターがレッスン詳細にミーティングリンクを手動で追加できます。
 
 ---
 
 ### AI APIキーの設定方法は？
 
-LokaのAI機能（ARP生成、レッスンアセスメント、AIフィードバック）には、**Anthropic（Claude）** または **OpenAI（GPT）** のAPIキーが必要です。
+LokaのAI機能（ARP生成、レッスンアセスメント、AIフィードバック）には、**Anthropic（Claude）**、**OpenAI（GPT）**、または **OpenRouter** のAPIキーが必要です。
 
 キーを設定するには：
 
 1. **プロフィール > 設定 > AI連携** に移動
-2. Anthropic、OpenAI、または両方のAPIキーを入力
+2. Anthropic、OpenAI、OpenRouter、または任意の組み合わせのAPIキーを入力
 3. **優先プロバイダー** を選択（システムは優先プロバイダーを最初に試し、必要に応じてもう一方にフォールバック）
 4. **保存** をクリック
 
-APIキーは[Anthropic](https://console.anthropic.com/)または[OpenAI](https://platform.openai.com/)から取得できます。AIコストは使用量に基づいてプロバイダーから直接請求されます -- Lokaはマークアップを追加しません。
+APIキーは[Anthropic](https://console.anthropic.com/)、[OpenAI](https://platform.openai.com/)、または[OpenRouter](https://openrouter.ai/)から取得できます。AIコストは使用量に基づいてプロバイダーから直接請求されます -- Lokaはマークアップを追加しません。
 
 ---
 
@@ -66,7 +66,7 @@ APIキーは[Anthropic](https://console.anthropic.com/)または[OpenAI](https:/
 
 レッスンサマリーは、レッスン詳細ページから **PDF** ファイルとして個別にダウンロードできます。レッスン内容の音声バージョンは **MP3** ファイルとして生成・ダウンロードできます。
 
-一括データエクスポート（レッスン履歴、生徒記録など）については、Loka Creatorまたはサポートにお問い合わせください。
+管理パネルには、特定のデータビュー用のExcelエクスポート機能があります。追加の一括データエクスポートについては、Loka Creatorまたはサポートにお問い合わせください。
 
 ---
 

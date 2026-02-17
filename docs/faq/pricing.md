@@ -36,24 +36,21 @@ Educator seats are standard monthly subscriptions at $6/month each. Unlike learn
 
 ### Can I change my plan?
 
-Yes. You can upgrade or downgrade your Loka Creator plan at any time from **Admin Panel > Billing > Change Plan**.
-
-- **Upgrades** take effect immediately, and you are charged the prorated difference.
-- **Downgrades** take effect at the end of your current billing period.
+Yes. Contact the Loka team to arrange a plan change. Changes can be coordinated to take effect at the start of your next billing cycle.
 
 ---
 
 ### How do I cancel my subscription?
 
-Go to **Admin Panel > Billing > Cancel Subscription**. Your access continues until the end of the current billing period. After cancellation, your data is retained for 90 days in case you decide to return.
+Go to **Billing** from your profile dropdown and click **Cancel Subscription**. This sends a cancellation request. Your access continues until the end of the current billing period.
 
-Cancelling your Creator plan also cancels all educator and learner seats associated with your school.
+Cancelling your Creator plan will deactivate all educator and learner accounts associated with your school.
 
 ---
 
 ### Can I get a refund?
 
-Loka does not offer prorated refunds for partial months. If you cancel mid-cycle, you retain access until the end of your billing period. If you are not satisfied within the first 30 days of a paid plan, [contact us](https://lokalingo.com/en/contact) and we will work with you to make it right.
+If you are within the first 14 days of a paid plan, you may be eligible for a refund. Beyond that, cancellations take effect at the end of the current billing period. [Contact us](https://lokalingo.com/en/contact) if you have questions about your specific situation.
 
 ---
 

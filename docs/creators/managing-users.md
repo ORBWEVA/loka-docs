@@ -14,8 +14,8 @@ Each educator in your school requires an **Educator Seat** ($6/month per seat). 
 
 To add a new educator:
 
-1. Go to **Admin Panel > Educators**.
-2. Click **Add Educator**.
+1. Go to **Users > Manage LP** in the admin sidebar.
+2. Click **Add New Teacher**.
 3. Enter their name, email address, and any initial settings.
 4. The educator will receive an invitation email with a link to set up their account.
 
@@ -30,12 +30,11 @@ Once activated, the educator gets their own dashboard with access to:
 
 To remove an educator:
 
-1. Go to **Admin Panel > Educators**.
+1. Go to **Users > Manage LP** in the admin sidebar.
 2. Click on the educator's name.
-3. Select **Remove Educator**.
-4. Confirm the removal.
+3. You can cancel their seat subscription or delete their account.
 
-Removing an educator cancels their seat subscription at the end of the current billing period. Their lesson history and materials are preserved.
+Cancelling a seat subscription stops the monthly billing. Deleting an educator removes their user account. Lesson records from past sessions are preserved in the system.
 
 ## Managing Learner Accounts
 
@@ -43,9 +42,9 @@ Learners join your school through an invitation or sign-up link.
 
 ### Inviting Learners
 
-1. Go to **Admin Panel > Learners**.
-2. Click **Add Learner** or **Send Invitation**.
-3. Enter the learner's email address.
+1. Go to **Users > Manage Learners** in the admin sidebar.
+2. Click **Add Learner**.
+3. Enter the learner's details (name, email, etc.).
 4. The learner receives an email with instructions to create their account.
 
 ### Learner Seats
@@ -64,29 +63,23 @@ From the learner management page, you can view:
 - Seat subscription status
 - Credit balance
 
-## User Statuses
+## User Status
 
-Users in Loka can have the following statuses:
+Users have a simple active/inactive status:
 
 | Status | Meaning |
 |--------|---------|
-| **Active** | The user has an active account and active seat subscription |
-| **Pending** | The user has been invited but has not yet completed sign-up |
-| **Inactive** | The user's seat subscription has lapsed or been cancelled |
-| **Suspended** | The account has been temporarily disabled by the Creator |
+| **Active** (status = 1) | The user can log in and use the platform |
+| **Inactive** (status = 0) | The user account is deactivated |
 
-You can filter the user list by status to quickly find the users you need.
+Active status is required alongside an active seat subscription for full platform access.
 
-## Verification
+## Onboarding
 
-New users go through a verification process:
+When a new educator is added, they receive a welcome email with login instructions. They can then:
 
-1. **Email verification** -- the user must confirm their email address by clicking a link in the welcome email.
-2. **Profile completion** -- the user fills in required profile fields (name, timezone, etc.).
-3. **Seat activation** -- the user's seat subscription is activated (either by the Creator or through payment).
+1. Log in with the credentials provided
+2. Complete their profile (name, timezone, teaching details)
+3. Begin using the educator dashboard once their seat subscription is active
 
-Once all steps are complete, the user's status changes to **Active** and they can fully use the platform.
-
-:::tip
-You can resend invitation emails from the user's profile page if they did not receive the original invite or if the link has expired.
-:::
+Learners who register through the booking page complete their profile during the registration process.

@@ -15,8 +15,8 @@ Loka is a learning management system built for language educators who want to ru
 - **The Living Textbook** -- Your corrections and teaching moments automatically build into a personalized textbook for each learner. No more lost notes or forgotten feedback.
 - **Scheduling & Bookings** -- Learners book directly from your availability. Integrated calendar sync keeps everything in order.
 - **Payments & Subscriptions** -- Stripe-powered billing handles lesson payments, seat subscriptions, and credit packs automatically.
-- **AI Integration** -- Bring your own API key (Anthropic Claude or OpenAI) to unlock AI-powered lesson preparation, real-time suggestions, and post-session feedback.
-- **Analytics & Progress** -- Track learner progress, session history, and teaching patterns over time.
+- **AI Integration** -- Bring your own API key (Anthropic Claude, OpenAI, or OpenRouter) to unlock AI-powered lesson preparation, real-time suggestions, and post-session feedback.
+- **Earnings & Progress** -- Track earnings, learner progress, and session history.
 
 ## Who Is Loka For?
 

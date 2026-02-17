@@ -1,84 +1,32 @@
 ---
 sidebar_position: 5
 title: Managing Students
-description: "View student profiles, track learning history, manage enrolments, and review progress across all your Loka learners."
+description: "Understand how learners join your school, the seat billing model, and how to review student data in Loka."
 ---
 
 # Managing Students
 
-Loka gives you a clear view of every learner in your school. Track their progress, review lesson history, and manage enrollments from a single place.
-
-## Student List
-
-Access your full student roster from the **Management** tab on your dashboard. The student list shows:
-
-- Student name and profile photo
-- Contact information
-- Enrollment status (active, inactive, pending)
-- Total lessons completed
-- Last lesson date
-
-Use the search bar to find students by name or email, and filters to narrow by status or activity level.
-
-## Student Profiles
-
-Click on any student to view their full profile. Each profile includes:
-
-### Contact Information
-
-- Name, email, phone number
-- Preferred language and timezone
-- Any notes you've added about their learning goals
-
-### Learning History
-
-A complete record of their journey with you:
-
-- **Session log** -- every lesson with date, duration, and service type
-- **Canvas history** -- all [Living Canvas](/educators/canvas) sessions, with notes, keywords, and CIPs
-- **ARPs** -- their full library of [Active Recall Pairs](/educators/canvas#active-recall-pairs-arps) from past sessions
-- **Progress trends** -- how their performance has changed over time
-
-### Booking History
-
-View all past and upcoming bookings:
-
-- Lesson date and time
-- Service type and duration
-- Payment status
-- Cancellation history
+Loka gives you a view of learners who book and attend sessions at your school.
 
 ## How Learners Join Your School
 
-There are several ways students can enroll:
-
 ### Booking Link
 
-Share your school's booking page URL with prospective students. They can:
+The primary way learners join is through your school's booking page:
 
-1. Visit your booking page
-2. Browse your available services and time slots
-3. Create a Loka account (or log in)
-4. Book their first lesson and complete payment
+1. Share your booking page URL with prospective students
+2. They visit the page, browse available services and time slots
+3. They create a Loka account (or log in)
+4. They book their first lesson and complete payment
+5. The learner is automatically added to your school
 
-The student is automatically added to your school roster after booking.
+### Admin Panel
 
-### Direct Invitation
-
-Invite students directly from your dashboard:
-
-1. Go to **Management > Students**
-2. Click **Invite Student**
-3. Enter their name and email address
-4. They receive an invitation email with a link to set up their account
-
-### Admin Assignment
-
-If you manage multiple educators under one school, an admin can assign students to specific teachers through the admin panel.
+Loka Creators can add learners through the admin panel under **Users > Manage Learners**. The learner receives a welcome email with instructions to set up their account.
 
 ## Learner Seats
 
-Each active student requires a **Learner Seat** subscription. Key details:
+Each active student requires a **Learner Seat** subscription:
 
 - A Learner Seat costs $6/month per student
 - The seat is renewed automatically when the learner pays for lessons
@@ -86,33 +34,34 @@ Each active student requires a **Learner Seat** subscription. Key details:
 - Students without an active seat cannot book new lessons
 
 :::note
-Learner Seats are tied to lesson payments -- you don't need to manually manage them. When a student books and pays, their seat stays active. When they stop, it naturally expires.
+Learner Seats are tied to lesson payments -- you do not need to manually manage them. When a student books and pays, their seat stays active. When they stop, it naturally expires.
 :::
 
-## Managing Student Records
+## Viewing Student Data
 
-### Adding Notes
+### Session History
 
-Add private notes to any student profile to track:
+From the Living Textbook tab on your dashboard, you can review past sessions with each student. Each session includes:
 
-- Learning objectives and goals
-- Preferred teaching style or pace
-- Topics to revisit in future sessions
+- Canvas notes and content
+- Keywords and vocabulary captured
+- Active Recall Pairs (ARPs)
+- Correct and Incorrect Phrases (CIPs)
+- Tasks assigned
 
-These notes are visible only to you, not to the student.
+### Booking Information
 
-### Reviewing Progress
+Session entries show:
+
+- Lesson date, time, and duration
+- Service type
+- Earnings from the session
+- Session status (booked, completed, cancelled, no-show)
+
+## Reviewing Progress
 
 Use the student's canvas history and ARP library to assess progress:
 
 - Look at CIP trends -- are they making fewer errors over time?
-- Review ARP mastery -- which recall pairs have they internalized?
+- Review keywords -- what vocabulary have they been learning?
 - Check session frequency -- are they booking regularly?
-
-### Deactivating a Student
-
-If a student is no longer active:
-
-- Their profile remains in your roster for record-keeping
-- Past session data, canvases, and ARPs are preserved
-- They can reactivate at any time by booking a new lesson

@@ -13,7 +13,7 @@ This guide walks you through how to make the most of your free trial. By the end
 Start by making Loka yours.
 
 - **Complete your educator profile** -- Add your name, photo, bio, and teaching specialties. This information appears on your booking page.
-- **Explore the dashboard** -- Take 10 minutes to click through the main sections: Sessions, Learners, Schedule, Canvas, and Settings.
+- **Explore the dashboard** -- Take 10 minutes to click through the main tabs: Earnings (Management), The Living Textbook (Canvas), and Search (Keywords).
 - **Set your timezone** -- Loka uses your timezone for all scheduling. Double-check it under Settings.
 
 :::tip First Impressions
@@ -24,9 +24,9 @@ Your profile is what learners see when they land on your booking page. A profess
 
 Set up your availability so learners can book with you.
 
-- **Set your weekly availability** -- Go to **Schedule > Availability** and define your recurring open slots (e.g., Monday-Friday, 9am-5pm).
+- **Set your weekly availability** -- Go to **Lesson Management > Manage Schedule** and define your recurring open slots (e.g., Monday-Friday, 9am-5pm).
 - **Block off exceptions** -- Mark specific dates or times as unavailable for holidays, meetings, or personal time.
-- **Connect your calendar** -- Sync with Google Calendar to avoid double-bookings. Go to **Settings > Integrations > Google Calendar**.
+- **Connect your calendar** -- Your Loka schedule can be exported as an iCal feed for use with Google Calendar and other calendar apps. Access it from **Lesson Management > Calendar**.
 - **Create a demo session** -- Book a test session with your included learner test seat to see how the booking flow works from both sides.
 
 ## Days 4-5: Run Your First Session
@@ -49,7 +49,7 @@ You do not need a real learner to test the Canvas. Start a session with your tes
 
 Time to bring in a real student.
 
-- **Send an invitation** -- Go to **Learners > Invite Learner** and enter their email address.
+- **Send an invitation** -- Share your school's booking page URL with your learner.
 - **Share your booking link** -- Each educator gets a unique booking URL. Send it to your learner so they can choose a time slot.
 - **Run a real session** -- Walk through a full lesson using the Living Canvas. Pay attention to how corrections are captured and how the session summary is generated.
 - **Ask for feedback** -- After the session, ask your learner how the booking and session experience felt. This is valuable early input.
@@ -62,11 +62,11 @@ With the basics covered, dig into the features that set Loka apart.
 
 Loka supports AI-powered lesson preparation and feedback using your own API key.
 
-1. Go to **Settings > AI Integration**
-2. Enter your API key for either **Anthropic Claude** or **OpenAI** (or both)
+1. Go to your **Profile** page and open the **AI Integration** section
+2. Enter your API key for **Anthropic Claude**, **OpenAI**, or **OpenRouter** (you can add multiple)
 3. Choose your preferred provider
-4. Try **AI Suggest** on the Canvas -- it generates contextual teaching suggestions during a session
-5. Review AI-generated session feedback after ending a lesson
+4. Try **AI Assist** on the Canvas -- it can auto-generate Active Recall Pairs from your lesson notes
+5. Use AI to suggest progress ratings and generate assessment comments
 
 :::info Bring Your Own Key
 Loka does not charge for AI features. You use your own API key and pay the provider directly. This keeps costs transparent and under your control.
@@ -74,7 +74,7 @@ Loka does not charge for AI features. You use your own API key and pay the provi
 
 ### Review Your Analytics
 
-- Check **Analytics** on your dashboard to see session counts, learner activity, and teaching patterns
+- Check the **Earnings** tab on your dashboard to see session counts, learner activity, and teaching patterns
 - Review individual learner progress and their Living Textbook history
 - Look at your busiest time slots to optimize your schedule
 

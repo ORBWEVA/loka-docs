@@ -17,29 +17,25 @@ Navigate to the **Management** tab on your dashboard to access your earnings ove
 A high-level view of your revenue for the selected period:
 
 - **Total earnings** -- gross revenue from all completed lessons
-- **Lesson count** -- number of sessions delivered
-- **Average per lesson** -- your average earnings per session
+- **Daily average** -- your average daily earnings for the period
+- **Duration** -- total teaching hours logged
 
 Use the date range picker to view earnings for any period -- this week, this month, a custom range, or all time.
 
 ### Top Services
 
-See which of your lesson types generate the most revenue:
+See which lesson types are most popular:
 
-- Service name and type
-- Number of bookings
-- Revenue per service
-- Percentage of total earnings
-
-This helps you understand which offerings resonate most with your students and where to focus your marketing.
+- Service name
+- Number of bookings per service
+- Displayed as a pie chart showing booking distribution
 
 ### Top Students
 
 View your highest-value students by:
 
-- Total lessons booked
-- Total revenue generated
-- Average lesson frequency
+- Total revenue generated per student
+- Displayed as a pie chart showing earnings distribution
 
 ## Earnings by Date Range
 
@@ -60,28 +56,17 @@ Loka supports multiple payout methods so you can receive your earnings in the wa
 
 Loka uses **Stripe Connect** for direct payouts:
 
-1. Go to **Settings > Payments**
-2. Click **Connect with Stripe**
-3. Complete the Stripe onboarding process (identity verification, bank account details)
-4. Once connected, lesson payments flow directly to your Stripe account
-
-With Stripe Connect, payouts are processed automatically after each lesson payment. You can configure your payout schedule (daily, weekly, monthly) in your Stripe dashboard.
+Stripe Connected Accounts can be set up for direct payouts. This is typically configured by your school administrator. Once connected, lesson payments can flow to your Stripe account.
 
 ### PayPal
 
-To receive payouts via PayPal:
-
-1. Go to **Settings > Payments**
-2. Enter your PayPal email address
-3. Payouts are sent to your PayPal account on the configured schedule
+PayPal payouts can be configured by your school administrator for periodic transfers.
 
 ### Wise (TransferWise)
 
 For international educators, **Wise** offers competitive exchange rates:
 
-1. Go to **Settings > Payments**
-2. Enter your Wise account details
-3. Payouts are sent in your preferred currency
+Your Wise email can be configured in your Profile page settings. Wise transfers offer competitive exchange rates for international educators.
 
 :::tip
 If you teach students across multiple countries, Wise typically offers the best exchange rates and lowest fees for international transfers.
@@ -114,11 +99,11 @@ This means your costs scale with your active student base. If a student takes a 
 
 ## Tax and Reporting
 
-Loka provides the data you need for tax reporting:
+Loka provides earnings data to help with tax reporting:
 
-- Export your earnings history as a CSV from the Management tab
-- Filter by date range to match your tax period
-- All amounts are shown in your configured currency
+- View your earnings history filtered by date range from the Earnings tab
+- Use the 30/60/90 day presets or set a custom date range to match your tax period
+- For bulk data exports, contact your school administrator
 
 :::note
 Loka does not withhold taxes or provide tax advice. Consult with a tax professional about your obligations as an independent educator.

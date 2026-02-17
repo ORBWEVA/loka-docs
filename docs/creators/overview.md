@@ -34,29 +34,26 @@ As a Loka Creator, you are responsible for:
 - Manage learner seat billing
 
 ### Billing & Subscriptions
-- Choose and manage your Loka Creator plan (DIY, DFY, or Aspire)
-- Purchase additional educator and learner seats
-- Access the Stripe billing portal for invoices and payment methods
-- Monitor seat usage across your school
+- Choose your Loka Creator plan (DIY, DFY, or Aspire)
+- Purchase additional educator seats
+- View billing status and request changes
 
 ### Platform Settings
-- Configure booking rules, timezone, and currency
-- Set up integrations (Stripe, Zoom, Asana, and more)
-- Customize email templates and notifications
-- Configure white-labelling options
+- Configure booking rules, timezone, and scheduling
+- Set up integrations (Stripe, Zoom, Zoho Invoice, and more)
+- Configure white-labelling options (school name, logo)
 
 ## Accessing the Admin Panel
 
 After logging in, you will see the **Admin Panel** in your navigation menu. The admin panel gives you access to:
 
-- **Dashboard** -- an overview of your school's activity, including active learners, upcoming lessons, and recent bookings.
-- **Educators** -- manage your teaching staff and their permissions.
-- **Learners** -- view and manage all learner accounts.
-- **Billing** -- manage subscriptions, seats, and payment settings.
-- **Settings** -- configure school-wide preferences and integrations.
+- **Users** -- manage educators (under "Manage LP") and learners (under "Manage Learners").
+- **Settings** -- configure school-wide preferences, integrations, and booking rules.
+- **Billing** -- accessible from the profile dropdown in the header. Manage your subscription.
+- **Profile** -- update your admin profile and password, also from the header dropdown.
 
 :::tip
-If you are also teaching lessons yourself, you can switch between the Creator (admin) view and the Educator (teaching) view using the role switcher in the navigation bar.
+If you are also teaching lessons yourself, the admin panel and educator dashboard are separate views accessed through different login credentials.
 :::
 
 ## Next Steps

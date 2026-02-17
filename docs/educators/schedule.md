@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Setting Up Your Schedule
-description: "Configure your weekly availability, connect Google Calendar, set buffer times, and manage time zones in Loka's scheduling system."
+description: "Configure your weekly availability, set booking constraints, export your schedule via iCal, and manage time zones in Loka."
 ---
 
 # Setting Up Your Schedule
@@ -12,7 +12,7 @@ Loka's scheduling system lets students book lessons based on your availability. 
 
 To configure your recurring schedule:
 
-1. Go to **Settings > Schedule** in your educator dashboard
+1. Go to the **Lesson Management** page (accessible from your educator navigation) and select the **Manage Schedule** tab
 2. Select the days you're available to teach
 3. For each day, add one or more time slots (e.g., 9:00 AM -- 12:00 PM, 2:00 PM -- 6:00 PM)
 4. Click **Save** to publish your availability
@@ -20,7 +20,7 @@ To configure your recurring schedule:
 Students will only see open slots when booking through your school's booking page.
 
 :::tip
-Set your timezone in **Settings > Profile** before configuring your schedule. All time slots are displayed in your local timezone to students in theirs.
+Set your timezone in your **Profile** page settings before configuring your schedule. All time slots are displayed in your local timezone to students in theirs.
 :::
 
 ## Time Slots
@@ -54,40 +54,27 @@ Set the minimum lead time required before a lesson can be booked. For example, r
 
 ### Cancellation Policy
 
-Define how far in advance students must cancel to avoid being charged:
-
-- **Flexible** -- cancel up to a few hours before
-- **Moderate** -- cancel 24 hours in advance
-- **Strict** -- cancel 48 hours or more in advance
-
-Your cancellation policy is displayed to students at the time of booking.
-
-### Buffer Time
-
-Add buffer time between lessons to give yourself a break, review notes, or prepare for the next student.
+Set the number of hours in advance that students must cancel to avoid being charged. For example, setting this to 24 means students must cancel at least 24 hours before the lesson start time. This is displayed to students at the time of booking.
 
 ## Calendar Integration
 
-Loka syncs with your existing calendar so you never double-book:
-
-### Google Calendar
-
-1. Go to **Settings > Integrations**
-2. Click **Connect Google Calendar**
-3. Authorize Loka to read your calendar events
-4. Events from your Google Calendar will automatically block those times in your Loka availability
+Loka provides tools to keep your schedule visible in your existing calendar apps.
 
 ### iCal Feed
 
-For other calendar apps (Apple Calendar, Outlook, etc.):
+Export your Loka schedule to any calendar app:
 
-1. Go to **Settings > Integrations**
+1. Go to the **Lesson Management** page and select the **Calendar** tab
 2. Copy your **iCal feed URL**
-3. Add it as a subscription calendar in your calendar app
+3. Add it as a subscription calendar in your calendar app (Apple Calendar, Google Calendar, Outlook, etc.)
 4. Your Loka schedule will appear as read-only events
 
+### Google Calendar Link
+
+The Calendar tab also provides a quick link to open Google Calendar, making it easy to cross-reference your Loka schedule with your personal calendar.
+
 :::note
-The iCal feed is one-way -- it pushes your Loka schedule to your calendar app. To block times based on your personal calendar, use the Google Calendar integration.
+The iCal feed is one-way -- it exports your Loka schedule to your calendar app. Loka does not read events from your external calendar.
 :::
 
 ## Best Practices

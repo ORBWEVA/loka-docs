@@ -33,24 +33,24 @@ Loka는 다음 브라우저의 최신 버전에서 가장 잘 작동합니다:
 
 ### 어떤 화상 회의 플랫폼을 지원하나요?
 
-Loka는 온라인 수업을 위해 **Zoom**과 연동됩니다. Zoom이 연결되면 온라인 수업 예약 시 Zoom 미팅 링크가 자동으로 생성되어 확인 이메일에 포함됩니다.
+Loka는 온라인 수업을 위해 **Zoom** 및 **Google Meet**과 연동됩니다. 연결되면 온라인 수업 예약 시 미팅 링크가 자동으로 생성되어 확인 이메일에 포함됩니다.
 
-학교에서 다른 화상 플랫폼(Google Meet, Microsoft Teams 등)을 사용하는 경우, 교육자가 수업 세부 정보에 미팅 링크를 수동으로 추가할 수 있습니다.
+학교에서 다른 화상 플랫폼(Microsoft Teams 등)을 사용하는 경우, 교육자가 수업 세부 정보에 미팅 링크를 수동으로 추가할 수 있습니다.
 
 ---
 
 ### AI API 키를 어떻게 설정하나요?
 
-Loka의 AI 기능(ARP 생성, 수업 평가, AI 기반 피드백)은 **Anthropic (Claude)** 또는 **OpenAI (GPT)**의 API 키가 필요합니다.
+Loka의 AI 기능(ARP 생성, 수업 평가, AI 기반 피드백)은 **Anthropic (Claude)**, **OpenAI (GPT)**, 또는 **OpenRouter**의 API 키가 필요합니다.
 
 키를 설정하려면:
 
 1. **프로필 > 설정 > AI 연동**으로 이동합니다
-2. Anthropic, OpenAI 또는 둘 다의 API 키를 입력합니다
+2. Anthropic, OpenAI, OpenRouter 또는 원하는 조합의 API 키를 입력합니다
 3. **선호 제공업체**를 선택합니다 (시스템이 선호 제공업체를 먼저 시도하고 필요 시 다른 제공업체로 폴백합니다)
 4. **저장**을 클릭합니다
 
-API 키는 [Anthropic](https://console.anthropic.com/) 또는 [OpenAI](https://platform.openai.com/)에서 발급받을 수 있습니다. AI 비용은 사용량에 따라 제공업체에서 직접 청구됩니다 -- Loka는 추가 요금을 부과하지 않습니다.
+API 키는 [Anthropic](https://console.anthropic.com/), [OpenAI](https://platform.openai.com/), 또는 [OpenRouter](https://openrouter.ai/)에서 발급받을 수 있습니다. AI 비용은 사용량에 따라 제공업체에서 직접 청구됩니다 -- Loka는 추가 요금을 부과하지 않습니다.
 
 ---
 
@@ -66,7 +66,7 @@ API 키는 [Anthropic](https://console.anthropic.com/) 또는 [OpenAI](https://p
 
 수업 요약은 수업 상세 페이지에서 **PDF** 파일로 개별 다운로드할 수 있습니다. 수업 내용의 오디오 버전은 **MP3** 파일로 생성하여 다운로드할 수 있습니다.
 
-대량 데이터 내보내기(수업 이력, 학생 기록 등)의 경우, Loka Creator에게 문의하거나 고객지원에 연락하세요.
+관리 패널에는 특정 데이터 보기를 위한 Excel 내보내기 기능이 포함되어 있습니다. 추가 대량 데이터 내보내기의 경우, Loka Creator에게 문의하거나 고객지원에 연락하세요.
 
 ---
 

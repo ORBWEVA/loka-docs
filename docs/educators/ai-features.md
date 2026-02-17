@@ -16,14 +16,15 @@ Loka uses a **BYOK model** for AI features. This means you provide your own API 
 
 | Provider | Key Setting | Default Model |
 |----------|-------------|---------------|
-| **Anthropic Claude** | Settings > AI Integration | Claude Sonnet |
-| **OpenAI** | Settings > AI Integration | GPT-4o Mini |
+| **Anthropic Claude** | Profile > AI Integration | Claude Sonnet |
+| **OpenAI** | Profile > AI Integration | GPT-4o Mini |
+| **OpenRouter** | Profile > AI Integration | Configurable (includes free models) |
 
 ### Adding Your API Key
 
-1. Go to **Settings** in your educator dashboard
+1. Go to your **Profile** page in the educator dashboard
 2. Open the **AI Integration** section
-3. Enter your API key for Anthropic, OpenAI, or both
+3. Enter your API key for Anthropic, OpenAI, OpenRouter, or any combination
 4. Select your **preferred provider** (the one Loka will try first)
 5. Save your settings
 
@@ -38,42 +39,40 @@ If you're unsure which provider to choose, Anthropic Claude generally produces m
 If you have keys for both providers, Loka uses an automatic fallback system:
 
 1. Loka tries your **preferred provider** first
-2. If that provider fails (rate limit, quota exceeded, temporary error), Loka automatically retries with the **other provider**
+2. If that provider fails (rate limit, quota exceeded, temporary error), Loka automatically tries the **next available provider**
 3. You get your result without interruption
 
 This means you're never blocked by a single provider's downtime.
 
 ## AI Features
 
-### AI Suggest
+### AI-Assisted Progress Ratings
 
-During or after a lesson, use **AI Suggest** to get teaching recommendations based on your session notes:
+After a lesson, use AI to help generate progress assessments:
 
-- Suggested follow-up topics based on what was covered
-- Recommended exercises for areas where the student struggled
-- Vocabulary expansion ideas related to the lesson theme
+- Suggested criteria movements (whether each skill area should be rated up, down, or stay)
+- Auto-generated comments for "Points to Improve" and "Strong Points"
+- Based on session data including canvas notes and CIPs
 
-Access AI Suggest from the canvas toolbar or the session review screen.
+Access this feature from the session review screen when wrapping up a lesson.
 
 ### ARP Generation
 
 AI can automatically generate **Active Recall Pairs** from your lesson content:
 
 1. Complete a session with notes on the [Living Canvas](/educators/canvas)
-2. Click **Generate ARPs** from the canvas menu
-3. AI analyzes your session notes, keywords, and CIPs
-4. A set of question-answer pairs is generated for student review
-
-You can edit, approve, or discard any generated ARPs before they're added to the student's review deck.
+2. Click the **AI** button on the canvas toolbar
+3. If you use Fathom AI, the system first fetches the meeting transcript for richer context
+4. AI analyzes your session notes, keywords, and CIPs to generate question-answer pairs
+5. Generated ARPs are inserted into your canvas and can be edited or removed with undo
 
 ### AI-Powered Session Feedback
 
-After a lesson, AI can generate structured feedback for your student:
+After a lesson, AI can help generate structured progress assessments:
 
-- Summary of what was covered
-- Strengths demonstrated during the session
-- Areas for improvement with specific examples
-- Recommended practice activities
+- Analysis of criteria movements across skill areas
+- Points to improve with specific examples from the session
+- Strong points demonstrated during the lesson
 
 This feedback is based on your canvas notes and CIPs, so the more detailed your session records, the better the feedback.
 
@@ -97,7 +96,7 @@ Since you own your API keys, AI costs depend on your usage:
 | ARP Generation | A few cents per session |
 | Session Feedback | A few cents per session |
 
-Costs are billed directly by your AI provider (Anthropic or OpenAI). Check your provider's dashboard for detailed usage tracking.
+Costs are billed directly by your AI provider (Anthropic, OpenAI, or OpenRouter). Check your provider's dashboard for detailed usage tracking.
 
 :::note
 AI features are optional. Loka works fully without them -- you can always create ARPs, write feedback, and plan lessons manually. AI simply speeds up the process.

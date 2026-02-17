@@ -97,13 +97,13 @@ There are two ways to upgrade:
 
 During your trial, a banner appears at the top of your dashboard showing how many days remain. Click the **Upgrade** button in the banner to go directly to the plan selection page.
 
-### From Settings
+### From the Upgrade Page
 
 1. Log in to your Educator Dashboard
-2. Go to **Settings > Subscription**
+2. Go to the upgrade page at `/educator/upgrade`
 3. Choose your plan
-4. Enter your payment details (handled securely by Stripe)
-5. Your account is upgraded immediately
+4. You are redirected to Stripe's secure checkout page to complete payment
+5. Your account is upgraded immediately after payment
 
 ## What Happens to My Data?
 
@@ -115,8 +115,8 @@ During your trial, a banner appears at the top of your dashboard showing how man
 - AI configuration and API keys are unchanged
 - Analytics and reports continue uninterrupted
 
-:::tip Switching Plans
-You can upgrade or downgrade between plans at any time. Changes take effect at the start of your next billing cycle. Your data is never deleted when switching plans.
+:::tip Plan Changes
+To change your plan, contact the Loka team. Your data is always preserved regardless of plan changes.
 :::
 
 ## Frequently Asked Questions
@@ -125,7 +125,7 @@ You can upgrade or downgrade between plans at any time. Changes take effect at t
 Yes. The [14-day free trial](./free-trial) gives you full access to all DIY features with no credit card required.
 
 **Is there a contract or commitment?**
-No. All plans are month-to-month. Cancel anytime from your Settings page.
+No. All plans are month-to-month. Cancel anytime by contacting the Loka team or through the admin billing page.
 
 **What payment methods do you accept?**
 We accept all major credit and debit cards through Stripe. Invoicing is available for Aspire plan customers on request.
@@ -134,7 +134,7 @@ We accept all major credit and debit cards through Stripe. Invoicing is availabl
 If you are not satisfied within the first 30 days of a paid plan, [contact us](https://lokalingo.com/en/contact) and we will make it right.
 
 **Do I need my own API key for AI features?**
-Yes. Loka uses a Bring Your Own Key (BYOK) model for AI. You provide your Anthropic Claude or OpenAI API key and pay the provider directly. This keeps AI costs transparent and under your control.
+Yes. Loka uses a Bring Your Own Key (BYOK) model for AI. You provide your Anthropic Claude, OpenAI, or OpenRouter API key and pay the provider directly. This keeps AI costs transparent and under your control.
 
 ## Next Steps
 

@@ -11,9 +11,8 @@ Getting started with Loka takes less than two minutes. Your free trial gives you
 ## How to Sign Up
 
 1. Go to [thelivingtextbook.lokalingo.com/start-free](https://thelivingtextbook.lokalingo.com/start-free)
-2. Enter your name, email address, and password
-3. Confirm your email address via the verification link
-4. Log in and land on your Educator Dashboard
+2. Enter your school or business name, email address, password, and timezone
+3. You are automatically logged in and taken to your Canvas view
 
 That is it. No credit card required, no sales call, no setup fee.
 
@@ -28,7 +27,7 @@ Your 14-day free trial includes:
   - Use the Living Canvas during lessons
   - Set up your availability and booking page
   - Access the Living Textbook (auto-generated learner notes)
-  - Configure AI features (bring your own API key)
+  - Configure AI features (bring your own Anthropic, OpenAI, or OpenRouter API key)
   - View analytics and session history
 
 :::info No Restrictions During Trial
@@ -51,10 +50,10 @@ We recommend deciding on a plan before day 14 so there is no interruption to you
 
 During your trial, you can invite a real learner or use the included test seat to simulate the learner experience:
 
-1. From your Educator Dashboard, go to **Learners > Invite Learner**
-2. Enter the learner's email address (or use your own secondary email for testing)
-3. The learner receives an invitation email with a link to create their account
-4. Once they accept, they appear in your learner list and can book sessions
+1. Your trial includes a pre-created test learner account
+2. Use the test learner to simulate the booking and session flow
+3. To add a real learner, share your school's booking page URL -- they can register and book from there
+4. Once they book, they appear in your learner list
 
 This is the best way to see the full booking and session flow before going live with real students.
 

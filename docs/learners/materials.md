@@ -16,7 +16,7 @@ Each completed lesson generates a summary page -- called a **Canvas** -- that ca
 Your teacher's notes from the lesson, covering key discussion points, explanations, and anything written on the whiteboard during the session.
 
 ### Keywords & Vocabulary
-New words and phrases introduced during the lesson, with definitions and example sentences. These are tagged to your level so you can review them in context.
+New words and phrases introduced during the lesson, captured as searchable tags for easy review.
 
 ### ARPs (Active Recall Pairs)
 AI-generated question-and-answer pairs based on the lesson content. ARPs help you practice what you learned by testing your recall of key vocabulary, grammar, and concepts from the session.
@@ -25,17 +25,16 @@ AI-generated question-and-answer pairs based on the lesson content. ARPs help yo
 Corrections from the lesson, showing what you said alongside the improved version. Each CIP highlights the specific grammar, vocabulary, or pronunciation point so you understand *why* the correction was made.
 
 ### Tasks
-Any homework or follow-up tasks your teacher assigned. You can mark tasks as complete from your dashboard.
+Any homework or follow-up tasks your teacher assigned.
 
 ## Accessing Materials After Lessons
 
-All your lesson materials are available from the **My Lessons** section of your dashboard. You can:
+All your lesson materials are available from your dashboard. Lessons are displayed one at a time with navigation buttons to move between sessions (previous/next).
 
-- **Browse by date** -- scroll through your lesson history chronologically.
-- **Search by keyword** -- find specific topics or vocabulary across all your past lessons.
-- **Filter by teacher** -- view materials from a specific teacher.
+- **Navigate by session** -- use the prev/next buttons to move through your lesson history.
+- **Search by keyword** -- use the Keywords section to search for specific vocabulary across all past lessons.
 
-Materials are available immediately after your teacher completes the lesson summary. You will receive a notification when new materials are ready.
+Materials are available after your teacher completes the lesson summary.
 
 ## PDF Downloads
 
