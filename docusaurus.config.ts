@@ -86,7 +86,6 @@ const config: Config = {
         },
         blog: false,
         sitemap: {
-          lastmod: 'date',
           ignorePatterns: ['/search', '/ja/search', '/ko/search'],
         },
         theme: {
