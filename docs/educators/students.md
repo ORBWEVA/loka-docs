@@ -46,7 +46,7 @@ From the Living Textbook tab on your dashboard, you can review past sessions wit
 - Canvas notes and content
 - Keywords and vocabulary captured
 - Active Recall Pairs (ARPs)
-- Correct and Incorrect Phrases (CIPs)
+- Correction pairs
 - Tasks assigned
 
 ### Booking Information
@@ -62,6 +62,6 @@ Session entries show:
 
 Use the student's canvas history and ARP library to assess progress:
 
-- Look at CIP trends -- are they making fewer errors over time?
+- Look at correction trends -- are they making fewer errors over time?
 - Review keywords -- what vocabulary have they been learning?
 - Check session frequency -- are they booking regularly?

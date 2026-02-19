@@ -52,7 +52,7 @@ After a lesson, use AI to help generate progress assessments:
 
 - Suggested criteria movements (whether each skill area should be rated up, down, or stay)
 - Auto-generated comments for "Points to Improve" and "Strong Points"
-- Based on session data including canvas notes and CIPs
+- Based on session data including canvas notes and correction pairs
 
 Access this feature from the session review screen when wrapping up a lesson.
 
@@ -63,7 +63,7 @@ AI can automatically generate **Active Recall Pairs** from your lesson content:
 1. Complete a session with notes on the [Living Canvas](/educators/canvas)
 2. Click the **AI** button on the canvas toolbar
 3. If you use Fathom AI, the system first fetches the meeting transcript for richer context
-4. AI analyzes your session notes, keywords, and CIPs to generate question-answer pairs
+4. AI analyzes your session notes, keywords, and correction pairs to generate question-answer pairs
 5. Generated ARPs are inserted into your canvas and can be edited or removed with undo
 
 ### AI-Powered Session Feedback
@@ -74,7 +74,7 @@ After a lesson, AI can help generate structured progress assessments:
 - Points to improve with specific examples from the session
 - Strong points demonstrated during the lesson
 
-This feedback is based on your canvas notes and CIPs, so the more detailed your session records, the better the feedback.
+This feedback is based on your canvas notes and correction pairs, so the more detailed your session records, the better the feedback.
 
 ## Fathom AI Integration
 

@@ -44,14 +44,14 @@ ARPs are question-answer pairs that reinforce learning through active recall:
 - ARPs are stored and available for review in the student's lesson materials
 - [AI features](/educators/ai-features) can auto-generate ARPs from your lesson notes
 
-### Correct and Incorrect Phrases (CIPs)
+### Correction Pairs
 
 Mark language as **correct** or **incorrect** during the lesson:
 
 - **Incorrect phrase** -- what the student actually said
 - **Correct phrase** -- the corrected version
 
-CIPs are the foundation of the Living Textbook methodology. They capture real moments from conversation and turn them into personalized learning material.
+Correction pairs are the foundation of the Living Textbook methodology. They capture real moments from conversation and turn them into personalized learning material.
 
 ### Auto-Save
 
@@ -69,7 +69,7 @@ Generate a clean, printable PDF of the session canvas:
 2. Click the **Export** menu
 3. Select **Download PDF**
 
-The PDF includes all text, keywords, ARPs, and CIPs from the session.
+The PDF includes all text, keywords, ARPs, and correction pairs from the session.
 
 ### MP3 Export (Text-to-Speech)
 
@@ -84,7 +84,7 @@ Convert your canvas text into an audio file using AWS Polly:
 This is particularly useful for pronunciation practice -- students can listen to correct phrases on the go.
 
 :::tip
-MP3 exports work best when your canvas text is clean and well-structured. Use keywords and CIPs rather than freehand notes for the clearest audio output.
+MP3 exports work best when your canvas text is clean and well-structured. Use keywords and correction pairs rather than freehand notes for the clearest audio output.
 :::
 
 ## Canvas History
@@ -98,6 +98,6 @@ Every session canvas is saved and accessible from the **Canvas** tab on your das
 ## Tips for Effective Canvas Use
 
 - **Structure your canvas** -- use sections to separate vocabulary, grammar, and conversation topics
-- **Record CIPs in real time** -- capture corrections as they happen, not after the lesson
+- **Record corrections in real time** -- capture correction pairs as they happen, not after the lesson
 - **Add ARPs for key takeaways** -- focus on the 3-5 most important things from each session
 - **Export after every lesson** -- send students a PDF or MP3 so they can review independently

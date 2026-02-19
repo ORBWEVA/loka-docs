@@ -21,8 +21,8 @@ New words and phrases introduced during the lesson, captured as searchable tags 
 ### ARPs (Active Recall Pairs)
 AI-generated question-and-answer pairs based on the lesson content. ARPs help you practice what you learned by testing your recall of key vocabulary, grammar, and concepts from the session.
 
-### CIPs (Correct & Incorrect Phrases)
-Corrections from the lesson, showing what you said alongside the improved version. Each CIP highlights the specific grammar, vocabulary, or pronunciation point so you understand *why* the correction was made.
+### Correction Pairs
+Corrections from the lesson, showing what you said alongside the improved version. Each correction pair highlights the specific grammar, vocabulary, or pronunciation point so you understand *why* the correction was made.
 
 ### Tasks
 Any homework or follow-up tasks your teacher assigned.
@@ -42,7 +42,7 @@ You can download any lesson summary as a PDF for offline study or printing.
 
 1. Open the lesson summary from **My Lessons**.
 2. Click the **Download PDF** button.
-3. The PDF includes all canvas notes, keywords, ARPs, CIPs, and tasks in a clean, printable format.
+3. The PDF includes all canvas notes, keywords, ARPs, correction pairs, and tasks in a clean, printable format.
 
 PDFs are useful for reviewing on the go or sharing with study partners.
 
