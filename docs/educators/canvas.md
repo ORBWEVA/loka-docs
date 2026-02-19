@@ -32,19 +32,29 @@ The canvas is a text-based editor where you capture lesson content:
 - **Add topics** -- organize your canvas content by topic tags
 - **Add sections** -- structure your notes into logical blocks
 
-### Keywords
+### Keywords and Keyphrases
 
-Record important vocabulary and phrases as **keywords**. These are tagged and searchable, making it easy for students to review specific terms after the lesson.
+Record important vocabulary and phrases using **curly bracket syntax** directly in the editor:
+
+- `{word}` -- marks a single word as a **keyword**
+- `{multiple words}` -- marks a phrase as a **keyphrase**
+- `{{Topic Name}}` -- creates a **topic tag** to organize sections
+
+You can also highlight text and click the **Keyword** or **Topic Tag** buttons in the toolbar below the editor.
+
+For a complete walkthrough of the syntax, toolbar buttons, and workflow, see [Creating Content: Keywords, CIPs & ARPs](/educators/canvas-content-guide).
 
 ### Active Recall Pairs (ARPs)
 
 ARPs are question-answer pairs that reinforce learning through active recall:
 
-- Add an ARP by entering a prompt (e.g., "How do you say 'thank you' in Japanese?") and the target answer
+- **Manual:** Type question-answer pairs directly on the canvas
+- **AI-generated:** Click the **AI** button on the toolbar to auto-generate ARPs from your notes, keywords, and correction pairs. Choose how many (3, 5, 7, or 10) from the dropdown
 - ARPs are stored and available for review in the student's lesson materials
-- [AI features](/educators/ai-features) can auto-generate ARPs from your lesson notes
 
-### Correction Pairs
+Learn more: [Creating ARPs with AI](/educators/canvas-content-guide#ai-generated-arps) | [AI features setup](/educators/ai-features)
+
+### Correction Pairs (CIPs)
 
 Mark language as **correct** or **incorrect** during the lesson:
 
@@ -52,6 +62,8 @@ Mark language as **correct** or **incorrect** during the lesson:
 - **Correct phrase** -- the corrected version
 
 Correction pairs are the foundation of the Living Textbook methodology. They capture real moments from conversation and turn them into personalized learning material.
+
+Learn more: [Creating Correction Pairs](/educators/canvas-content-guide#creating-correction-pairs-cips)
 
 ### Auto-Save
 
